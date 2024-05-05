@@ -31,7 +31,7 @@ Feel free to contribute to this project! You can open an issue to report bugs or
 
 ## Author
 
-This Hangman game was developed by [Your Name](link to your GitHub profile).
+This Hangman game was developed by Javier Sáenz (https://github.com/jasaenzl).
 
 ## License
 
